@@ -1,0 +1,14 @@
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/bin/Debug/net8.0/exam1
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/bin/Debug/net8.0/exam1.deps.json
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/bin/Debug/net8.0/exam1.runtimeconfig.json
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/bin/Debug/net8.0/exam1.dll
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/bin/Debug/net8.0/exam1.pdb
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/exam1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/exam1.AssemblyInfoInputs.cache
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/exam1.AssemblyInfo.cs
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/exam1.csproj.CoreCompileInputs.cache
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/exam1.dll
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/refint/exam1.dll
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/exam1.pdb
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/exam1.genruntimeconfig.cache
+/Users/nguyenthihuyentrang/Desktop/C#_exam/exam1/obj/Debug/net8.0/ref/exam1.dll
